@@ -1,8 +1,8 @@
 # furybsd ISO builder
 
-This Live ISO builder builds Live ISOs for FuryBSD. It is based on furybsd-livecd && furybsd-legacy by Joe Maloney 
+This Live ISO builder builds Live ISOs for FuryBSD. It is based on [furybsd-livecd](https://github.com/furybsd/furybsd-livecd/) && furybsd-legacy by Joe Maloney 
 
-This Live ISO builder builds Live ISOs for FuryBSD. It is based on [furybsd-livecd](https://github.com/furybsd/furybsd-livecd/) by Joe Maloney 
+This Live ISO builder builds Live ISOs for FuryBSD. It is based on  
 
 ## System Requirements for live media
 
