@@ -9,4 +9,7 @@ This Live ISO builder builds Live ISOs for FuryBSD. It is based on [furybsd-live
 * VGA capable of 1024x768 screen resolution 
 * Either a CD/DVD drive or a USB port for booting the installer media
 
-FuryBSD will run well in virtual environments. It will run successfully in VMware Fusion, VirtualBox, Proxmox, QEMU/KVM, and bhyve.
+FuryBSD will run in virtual environments. It will run successfully in VMware Fusion, VirtualBox, Proxmox, QEMU/KVM, and bhyve.
+
+
+## The Project is Under Development 
